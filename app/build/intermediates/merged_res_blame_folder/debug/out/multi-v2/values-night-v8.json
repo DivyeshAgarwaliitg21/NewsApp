@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.adiv.newsapp-mergeDebugResources-66:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\agarw\\OneDrive\\Desktop\\Club coding\\App_dev\\NewsApp\\News-App-master\\News-App-master\\app\\src\\main\\res\\values-night\\color.xml",
+                    "from": {
+                        "startLines": "5,2,6,7,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "198,55,237,288,334,105,153",
+                        "endColumns": "38,49,50,45,41,47,44",
+                        "endOffsets": "232,100,283,329,371,148,193"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,94,144,195,241,283,331",
+                        "endColumns": "38,49,50,45,41,47,44",
+                        "endOffsets": "89,139,190,236,278,326,371"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\agarw\\OneDrive\\Desktop\\Club coding\\App_dev\\NewsApp\\News-App-master\\News-App-master\\app\\src\\main\\res\\values-night\\splash.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "376",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "665"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\agarw\\.gradle\\caches\\transforms-4\\fa7c770f6fab0d1bf774344a3028316d\\transformed\\core-splashscreen-1.0.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "670",
+                        "endColumns": "85",
+                        "endOffsets": "751"
+                    }
+                }
+            ]
+        }
+    ]
+}

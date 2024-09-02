@@ -1,0 +1,70 @@
+com.adiv.newsapp-appcompat-resources-1.6.1-0 C:\Users\agarw\.gradle\caches\transforms-4\00ba1ea8dbe9441a67ae7fcfc048e2b8\transformed\appcompat-resources-1.6.1\res
+com.adiv.newsapp-animation-core-release-1 C:\Users\agarw\.gradle\caches\transforms-4\04b389c1dfff34ccdcde993895ad9ffc\transformed\animation-core-release\res
+com.adiv.newsapp-customview-poolingcontainer-1.0.0-2 C:\Users\agarw\.gradle\caches\transforms-4\06070bffd185426cfcf0943514155817\transformed\customview-poolingcontainer-1.0.0\res
+com.adiv.newsapp-recyclerview-1.2.1-3 C:\Users\agarw\.gradle\caches\transforms-4\066bf4808a6172d643d9fe9fbe91715c\transformed\recyclerview-1.2.1\res
+com.adiv.newsapp-datastore-preferences-1.0.0-4 C:\Users\agarw\.gradle\caches\transforms-4\097d5268b3c2e750a5b814b1c0acb6d7\transformed\datastore-preferences-1.0.0\res
+com.adiv.newsapp-datastore-1.0.0-5 C:\Users\agarw\.gradle\caches\transforms-4\1bd2d976941f9e65ce38fb02df70d4e5\transformed\datastore-1.0.0\res
+com.adiv.newsapp-lifecycle-livedata-core-2.8.4-6 C:\Users\agarw\.gradle\caches\transforms-4\1dc4ea4dced9d585debfb73bbedcbeb1\transformed\lifecycle-livedata-core-2.8.4\res
+com.adiv.newsapp-annotation-experimental-1.4.0-7 C:\Users\agarw\.gradle\caches\transforms-4\28c2c73adc9829aac98c3441f3d7b229\transformed\annotation-experimental-1.4.0\res
+com.adiv.newsapp-activity-1.9.1-8 C:\Users\agarw\.gradle\caches\transforms-4\2a687a86711b665700869501ca4ef454\transformed\activity-1.9.1\res
+com.adiv.newsapp-core-runtime-2.2.0-9 C:\Users\agarw\.gradle\caches\transforms-4\2b52b27b44edf0a9fa6d4786373ed13e\transformed\core-runtime-2.2.0\res
+com.adiv.newsapp-paging-compose-3.2.0-rc01-10 C:\Users\agarw\.gradle\caches\transforms-4\30523e6a3dce9f2005097ca6b8f644f8\transformed\paging-compose-3.2.0-rc01\res
+com.adiv.newsapp-hilt-navigation-compose-1.0.0-11 C:\Users\agarw\.gradle\caches\transforms-4\363c16b6f47708436525417f3cbfb991\transformed\hilt-navigation-compose-1.0.0\res
+com.adiv.newsapp-ui-test-manifest-1.6.6-12 C:\Users\agarw\.gradle\caches\transforms-4\36ba60c3a6acdfa79b4d7cb0caa9da55\transformed\ui-test-manifest-1.6.6\res
+com.adiv.newsapp-ui-tooling-preview-release-13 C:\Users\agarw\.gradle\caches\transforms-4\39e00cb416c0a02df51aa460b1ce0f8c\transformed\ui-tooling-preview-release\res
+com.adiv.newsapp-lifecycle-livedata-2.8.4-14 C:\Users\agarw\.gradle\caches\transforms-4\3e665a0cbf330b3c9846daed2b1d7b22\transformed\lifecycle-livedata-2.8.4\res
+com.adiv.newsapp-savedstate-ktx-1.2.1-15 C:\Users\agarw\.gradle\caches\transforms-4\4367bc6fa0aac5f016d567c6d355fb03\transformed\savedstate-ktx-1.2.1\res
+com.adiv.newsapp-room-ktx-2.5.2-16 C:\Users\agarw\.gradle\caches\transforms-4\44cfd6b8a327ab6303958d2e63d31463\transformed\room-ktx-2.5.2\res
+com.adiv.newsapp-material-ripple-release-17 C:\Users\agarw\.gradle\caches\transforms-4\462bdd3b98317d5b24c57894ed00460e\transformed\material-ripple-release\res
+com.adiv.newsapp-room-runtime-2.5.2-18 C:\Users\agarw\.gradle\caches\transforms-4\4808122428e1c942ae55f546c0afb84b\transformed\room-runtime-2.5.2\res
+com.adiv.newsapp-material3-release-19 C:\Users\agarw\.gradle\caches\transforms-4\4908947629354e4d43c37f3a8d1d3086\transformed\material3-release\res
+com.adiv.newsapp-foundation-layout-release-20 C:\Users\agarw\.gradle\caches\transforms-4\4ced6d980abaed56d4c1be53b75029d6\transformed\foundation-layout-release\res
+com.adiv.newsapp-navigation-compose-2.6.0-21 C:\Users\agarw\.gradle\caches\transforms-4\51af18eb8b1439e9f6dbcc0e6d31f755\transformed\navigation-compose-2.6.0\res
+com.adiv.newsapp-lifecycle-viewmodel-release-22 C:\Users\agarw\.gradle\caches\transforms-4\590f017165227918f756129800a99670\transformed\lifecycle-viewmodel-release\res
+com.adiv.newsapp-startup-runtime-1.1.1-23 C:\Users\agarw\.gradle\caches\transforms-4\59983284410a62da421103a198a1b4b9\transformed\startup-runtime-1.1.1\res
+com.adiv.newsapp-ui-text-release-24 C:\Users\agarw\.gradle\caches\transforms-4\5a0be6524d91f2753d570fb7ad9465f8\transformed\ui-text-release\res
+com.adiv.newsapp-ui-release-25 C:\Users\agarw\.gradle\caches\transforms-4\5aa4e3e02236c705aacd66ceb4a42d32\transformed\ui-release\res
+com.adiv.newsapp-profileinstaller-1.3.1-26 C:\Users\agarw\.gradle\caches\transforms-4\5bdda1d855318b9f19ff0c54535cf761\transformed\profileinstaller-1.3.1\res
+com.adiv.newsapp-core-ktx-1.13.1-27 C:\Users\agarw\.gradle\caches\transforms-4\5f84ff90145d231a6867a33552f66c03\transformed\core-ktx-1.13.1\res
+com.adiv.newsapp-lifecycle-viewmodel-ktx-2.8.4-28 C:\Users\agarw\.gradle\caches\transforms-4\60f7edd05e5ed7bd8d5b1c3d207877b0\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.adiv.newsapp-lifecycle-viewmodel-compose-release-29 C:\Users\agarw\.gradle\caches\transforms-4\6dc93156fe8ca21d1eb2f9c615cc4936\transformed\lifecycle-viewmodel-compose-release\res
+com.adiv.newsapp-paging-runtime-3.2.0-rc01-30 C:\Users\agarw\.gradle\caches\transforms-4\78910ae8203f19d600070e10a15f8da1\transformed\paging-runtime-3.2.0-rc01\res
+com.adiv.newsapp-fragment-1.5.1-31 C:\Users\agarw\.gradle\caches\transforms-4\78cb7c77bdf22de4a789d239b0087555\transformed\fragment-1.5.1\res
+com.adiv.newsapp-lifecycle-runtime-release-32 C:\Users\agarw\.gradle\caches\transforms-4\79c065d8a4a82ad217a7574c1b659d4a\transformed\lifecycle-runtime-release\res
+com.adiv.newsapp-lifecycle-livedata-core-ktx-2.8.4-33 C:\Users\agarw\.gradle\caches\transforms-4\863b2023cac0009b9a48a1d7a980c701\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.adiv.newsapp-activity-ktx-1.9.1-34 C:\Users\agarw\.gradle\caches\transforms-4\8911a85736e71c73f0ac53da3163d519\transformed\activity-ktx-1.9.1\res
+com.adiv.newsapp-runtime-release-35 C:\Users\agarw\.gradle\caches\transforms-4\8958b6243387dc4118c72c5c88c3b20e\transformed\runtime-release\res
+com.adiv.newsapp-animation-release-36 C:\Users\agarw\.gradle\caches\transforms-4\8a1ddd2d52c7fb17ab205cd2ca934726\transformed\animation-release\res
+com.adiv.newsapp-navigation-common-ktx-2.6.0-37 C:\Users\agarw\.gradle\caches\transforms-4\8cd0b8e8090da8178f87d740637f7115\transformed\navigation-common-ktx-2.6.0\res
+com.adiv.newsapp-activity-compose-1.9.1-38 C:\Users\agarw\.gradle\caches\transforms-4\8cf4e6eda0190850e5c297faf32633b7\transformed\activity-compose-1.9.1\res
+com.adiv.newsapp-navigation-common-2.6.0-39 C:\Users\agarw\.gradle\caches\transforms-4\97d2ddcc7275a9c0df322fdcdcec7952\transformed\navigation-common-2.6.0\res
+com.adiv.newsapp-ui-util-release-40 C:\Users\agarw\.gradle\caches\transforms-4\9b2317806519719b609e4f24d8090dc4\transformed\ui-util-release\res
+com.adiv.newsapp-runtime-saveable-release-41 C:\Users\agarw\.gradle\caches\transforms-4\9bcc0f3ac9ecee79ff384666f918c547\transformed\runtime-saveable-release\res
+com.adiv.newsapp-material-icons-core-release-42 C:\Users\agarw\.gradle\caches\transforms-4\9f21d23d146058f4189ef23aa593d2a9\transformed\material-icons-core-release\res
+com.adiv.newsapp-coil-base-2.4.0-43 C:\Users\agarw\.gradle\caches\transforms-4\a38bd6c9427d8ed22c94674dcc1f95db\transformed\coil-base-2.4.0\res
+com.adiv.newsapp-sqlite-2.3.1-44 C:\Users\agarw\.gradle\caches\transforms-4\b139fcc316ac1727f86c55c6c7f39346\transformed\sqlite-2.3.1\res
+com.adiv.newsapp-lifecycle-process-2.8.4-45 C:\Users\agarw\.gradle\caches\transforms-4\b78dda4f2c07e5fc1e1d35a328c33c95\transformed\lifecycle-process-2.8.4\res
+com.adiv.newsapp-navigation-runtime-2.6.0-46 C:\Users\agarw\.gradle\caches\transforms-4\b8b09d1ca275c5ce276a697024cd90c2\transformed\navigation-runtime-2.6.0\res
+com.adiv.newsapp-sqlite-framework-2.3.1-47 C:\Users\agarw\.gradle\caches\transforms-4\b959ef77288e605e967e3ee621a657e4\transformed\sqlite-framework-2.3.1\res
+com.adiv.newsapp-navigation-runtime-ktx-2.6.0-48 C:\Users\agarw\.gradle\caches\transforms-4\bcfc4bde52bfb54ba056fed80e2c852a\transformed\navigation-runtime-ktx-2.6.0\res
+com.adiv.newsapp-hilt-navigation-1.0.0-49 C:\Users\agarw\.gradle\caches\transforms-4\c14ca334b5f627b32fc733bee619a9f3\transformed\hilt-navigation-1.0.0\res
+com.adiv.newsapp-ui-graphics-release-50 C:\Users\agarw\.gradle\caches\transforms-4\c8de55d40714993806b6028f9aebba3b\transformed\ui-graphics-release\res
+com.adiv.newsapp-core-1.13.1-51 C:\Users\agarw\.gradle\caches\transforms-4\cb6c4f8da5fb18c228a1c2ea65b18fc2\transformed\core-1.13.1\res
+com.adiv.newsapp-material-release-52 C:\Users\agarw\.gradle\caches\transforms-4\d307319b77cd9ad4ae5960806fc08a8b\transformed\material-release\res
+com.adiv.newsapp-ui-tooling-data-release-53 C:\Users\agarw\.gradle\caches\transforms-4\d8ff19de9773db88bb972916969c4ad8\transformed\ui-tooling-data-release\res
+com.adiv.newsapp-lifecycle-runtime-ktx-release-54 C:\Users\agarw\.gradle\caches\transforms-4\dbac32d3437d4b5b59b158c67258fafc\transformed\lifecycle-runtime-ktx-release\res
+com.adiv.newsapp-ui-geometry-release-55 C:\Users\agarw\.gradle\caches\transforms-4\dd408af22c0b79c64e83635f1f71638d\transformed\ui-geometry-release\res
+com.adiv.newsapp-foundation-release-56 C:\Users\agarw\.gradle\caches\transforms-4\e99c7fba6473a872d17eef7a169a0b0a\transformed\foundation-release\res
+com.adiv.newsapp-lifecycle-livedata-ktx-2.8.4-57 C:\Users\agarw\.gradle\caches\transforms-4\eeadf9d6a0e524e2f893b5d2ac28fb60\transformed\lifecycle-livedata-ktx-2.8.4\res
+com.adiv.newsapp-emoji2-1.3.0-58 C:\Users\agarw\.gradle\caches\transforms-4\f2793ac30d958164691d0871d4984357\transformed\emoji2-1.3.0\res
+com.adiv.newsapp-lifecycle-viewmodel-savedstate-2.8.4-59 C:\Users\agarw\.gradle\caches\transforms-4\f8a62fbfb85ba1609a7f733d0140aa5a\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.adiv.newsapp-core-splashscreen-1.0.1-60 C:\Users\agarw\.gradle\caches\transforms-4\fa7c770f6fab0d1bf774344a3028316d\transformed\core-splashscreen-1.0.1\res
+com.adiv.newsapp-ui-tooling-release-61 C:\Users\agarw\.gradle\caches\transforms-4\faa864589ca05e3c6a547cadbb03de7a\transformed\ui-tooling-release\res
+com.adiv.newsapp-ui-unit-release-62 C:\Users\agarw\.gradle\caches\transforms-4\faf9fd7cd4624118e1a59e5b3f0aa3ef\transformed\ui-unit-release\res
+com.adiv.newsapp-savedstate-1.2.1-63 C:\Users\agarw\.gradle\caches\transforms-4\fbad723b4bc2152e38cb88d18b9768f5\transformed\savedstate-1.2.1\res
+com.adiv.newsapp-resValues-64 C:\Users\agarw\OneDrive\Desktop\Club coding\App_dev\NewsApp\News-App-master\News-App-master\app\build\generated\res\resValues\debug
+com.adiv.newsapp-packageDebugResources-65 C:\Users\agarw\OneDrive\Desktop\Club coding\App_dev\NewsApp\News-App-master\News-App-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.adiv.newsapp-packageDebugResources-66 C:\Users\agarw\OneDrive\Desktop\Club coding\App_dev\NewsApp\News-App-master\News-App-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.adiv.newsapp-merged_res-67 C:\Users\agarw\OneDrive\Desktop\Club coding\App_dev\NewsApp\News-App-master\News-App-master\app\build\intermediates\merged_res\debug
+com.adiv.newsapp-debug-68 C:\Users\agarw\OneDrive\Desktop\Club coding\App_dev\NewsApp\News-App-master\News-App-master\app\src\debug\res
+com.adiv.newsapp-main-69 C:\Users\agarw\OneDrive\Desktop\Club coding\App_dev\NewsApp\News-App-master\News-App-master\app\src\main\res

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\agarw\OneDrive\Desktop\Club coding\App_dev\NewsApp\News-App-master\News-App-master\app\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\agarw\OneDrive\Desktop\Club coding\App_dev\NewsApp\News-App-master\News-App-master\app\src\debug\jniLibs"/></dataSet></merger>
